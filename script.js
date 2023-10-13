@@ -92,5 +92,5 @@ btnHold.addEventListener('click', function () {
     switchPlayer();
   }
 });
-//JS will call function init on buttonclick
+//JS will call function init on button click
 btnNew.addEventListener('click', init);
